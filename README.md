@@ -1,6 +1,6 @@
 # Chattrbox
 
-Sets up Node.js for Chattrbox's server. Backend that allows users to chat with another user. This is for **Homework 7 - CPSC 473 Front-End Development course**.
+Simple chat application where users can chat one on one. They can use the chat by providing their own username. Timestamp and a gravatar are shown with the user's message. This is for **Homework 7 - CPSC 473 Front-End Development course**.
 
 ## Getting Started
 
